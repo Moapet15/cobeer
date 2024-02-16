@@ -17,7 +17,7 @@
           <rect x="5" y="5" rx="25" fill="none" stroke="url(#grad1)" width="266" height="50"></rect>
         </svg>
         <!--<span>Voir mes réalisations</span>-->
-        <span>Inicio</span>
+        <span>Inici</span>
       </a>
     </li>
     <li>
@@ -49,13 +49,14 @@
           <rect x="5" y="5" rx="25" fill="none" stroke="url(#grad1)" width="266" height="50"></rect>
         </svg>
         <!--<span>Voir mes réalisations</span>-->
-        <span>Departamentos</span>
+        <span>Departaments</span>
       </a>
     </li>
     <div class="subMenu">
       <li><a href="">Daw</a></li>
       <li><a href="">Cai</a></li>
-      <li><a href="">Dietetica</a></li>
+      <li><a href="">Dietètica</a></li>
+      <li><a href="">Farmàcia</a></li>
 
     </div>
     </div>
